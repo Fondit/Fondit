@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Baverdie</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
+<p align="center">42 student in Angoulême</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=baverdie&label=Profile%20views&color=0e75b6&style=flat" alt="baverdie" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baverdie&label=Profile%20views&color=0e75b6&style=flat" alt="baverdie" /> </p>
+<p align="center">____________________________________________________________________</p>
 
 - 📫 How to reach me **baverdie.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Network :</h3>
 <p align="left">
 <a href="https://instagram.com/baverdie.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_btn._" height="30" width="40" /></a>
 </p>
