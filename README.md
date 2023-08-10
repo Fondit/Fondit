@@ -3,7 +3,6 @@
 <div align="center">
 	<img src="https://visitcount.itsvg.in/api?id=Baverdie&icon=2&color=12" alt="visitors">
 	<br>
-	<br>
 	<a href="https://instagram.com/baverdie.fr">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
 	</a>
