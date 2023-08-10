@@ -1,7 +1,7 @@
 <h1 align="center" font-size="bold"> Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> </h1>
 <h3 align="center" font-size="bold"> I'm Baverdie </h3>
-<div align="center">
-	<img src="https://visitcount.itsvg.in/api?id=Baverdie&icon=2&color=12" alt="visitors">
+<div align="center"><br>
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=Baverdie&right_color=grey&left_color=#000" alt="visitors">
 	<br>
 	<a href="https://instagram.com/baverdie.fr">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
