@@ -34,8 +34,10 @@
 		<img src="https://skillicons.dev/icons?i=figma,git,vim,c,html,css,js,php,mysql">
 	</a>
 	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baverdie&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+	<div>
+		[![basverdi's 42 stats](https://badge.mediaplus.ma/water/basverdi)](https://github.com/oakoudad/badge42)
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baverdie&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+	</div>
 </p>
 
 <!-- ## Logtime 42 -->
-[![basverdi's 42 stats](https://badge.mediaplus.ma/water/basverdi)](https://github.com/oakoudad/badge42)
