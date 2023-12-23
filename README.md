@@ -38,4 +38,4 @@
 </p>
 
 <!-- ## Logtime 42 -->
-[!basverdi's 42 stats](https://badge.mediaplus.ma/water/basverdi)](https://github.com/oakoudad/badge42)
+[![basverdi's 42 stats](https://badge.mediaplus.ma/water/basverdi)](https://github.com/oakoudad/badge42)
