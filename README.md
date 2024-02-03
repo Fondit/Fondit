@@ -5,7 +5,9 @@
 	<br>
 	<a href="https://instagram.com/baverdie.fr" target="_blank" style="text-decoration:none !important"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 	<a href="https://www.linkedin.com/in/bastien-verdier-vaissiere-176913271/" target="_blank" style="text-decoration:none !important"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-	<a href="https://baverdie.fr" target="_blank" style="text-decoration:none !important"><img src="https://img.shields.io/badge/Portfolio-000?logo=Google-chrome&logoColor=white"></a>
+	<a href="https://baverdie.fr" target="_blank" style="text-decoration:none !important">
+		<img src="https://img.shields.io/badge/Portfolio-000?logo=Google-chrome&logoColor=white">
+	</a>
 	<!-- <a href="https://discord.gg/io" target="_blank">
 		<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
 	</a> -->
