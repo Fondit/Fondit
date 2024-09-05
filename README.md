@@ -21,7 +21,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=figma,git,vim,c,html,css,scss,js,vite,nextjs,react,prisma,php,mysql">
+		<img src="https://skillicons.dev/icons?i=figma,git,github,vim,neovim,vscode,c,cpp,html,css,scss,tailwind,js,vite,nextjs,react,prisma,mongodb,php,mysql,apple">
 	</a>
 	<br><br>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baverdie&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
