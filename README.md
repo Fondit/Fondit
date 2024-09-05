@@ -20,7 +20,7 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="center">
 		<img src="https://skillicons.dev/icons?i=figma,git,github,vim,neovim,vscode,c,cpp,html,css,scss,tailwind,js,vite,nextjs,react,prisma,mongodb,php,mysql,apple">
 	</a>
 	<br><br>
