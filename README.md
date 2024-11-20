@@ -29,5 +29,5 @@
 
  ## 🎓 42 School
  <div align="center">
- 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/basverdi?1337Badge=off&UM6P=off" alt="basverdi's 42 stats" /></a>
+ 	<img src="https://badge.mediaplus.ma/darkgray/basverdi?1337Badge=off&UM6P=off" alt="basverdi's 42 stats" />
  </div>
