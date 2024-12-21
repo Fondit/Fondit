@@ -13,7 +13,7 @@
 ## 💫 About Me:
 <div align="center">
 🎓 I'm student at 42 School since october 2023 and i'm also freelance full-stack web developer.<br><br>
-💻 I love to learn new technologies. I learned HTML 5, CSS 3, Javascript, PHP, SQL on my own from documentations and tutorials.<br><br>
+💻 I love to learn new technologies. I learned HTML 5, CSS 3, Javascript, React, Next.js, MongoDB, Prisma, PHP, SQL on my own from documentations and tutorials.<br><br>
 🎧 I also love listen musique, read books and meet people.
 </div>
 <br>
